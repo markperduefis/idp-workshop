@@ -25,7 +25,7 @@ spec:
   lifecycle: experimental
 #  system: Demo
   dependsOn:
-  - component:default/markperdue-service
+  - component:default/mark-perdue-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
