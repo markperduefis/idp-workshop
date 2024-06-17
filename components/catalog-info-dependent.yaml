@@ -24,8 +24,8 @@ spec:
   owner: change-value
   lifecycle: experimental
 #  system: Demo
- dependsOn:
-   - component:default/markperdue-service
+  dependsOn:
+  - component:default/markperdue-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
