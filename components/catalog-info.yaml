@@ -21,7 +21,7 @@ metadata:
     - markperdue
 spec:
   type: service
-  owner: markperdue
+  owner: TeamA
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
